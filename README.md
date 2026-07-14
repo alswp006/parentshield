@@ -1,2 +1,5 @@
+🇺🇸 [한국어](./README.ko.md)
+
 # parentshield
-자녀의 앱 사용 시간과 콘텐츠를 실시간으로 관리하고 싶지만 기존 솔루션은 복잡하거나 우회가 쉬운 문제를 해결하는 스마트 자녀보호 앱
+
+A smart parental control app that helps you manage your children's app usage time and content in real-time, solving the problem where existing solutions are either too complex or easy to bypass.
